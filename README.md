@@ -9,7 +9,7 @@ Front End Developer
 Quick learner, loves to teach, enthusiastic, self-motivated, reliable, responsible, hardworking and highly motivated.
 
 * 🌍  I'm based in Baku, Azerbaijan
-* ✉️  You can contact me at [yusifovs1009@gmail.com](mailto:yusifovs1009@gmail.com)
+* ✉️  You can contact me at [yusifov.dev@gmail.com](mailto:yusifov.dev@gmail.com)
 * 🧠  I'm learning React.js , Angular
 
 ### Skills
