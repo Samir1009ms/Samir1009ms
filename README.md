@@ -64,3 +64,4 @@ Quick learner, loves to teach, enthusiastic, self-motivated, reliable, responsib
 
 <br /><br /><br /><br /><br />
 <div width="100%" align="center"><a href="https://github.com/Samir1009ms/car-product" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir1009ms&repo=car-product&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Samir1009ms/json" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir1009ms&repo=json&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=" /></a></div>
+
