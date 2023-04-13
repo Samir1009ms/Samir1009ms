@@ -59,10 +59,12 @@ Quick learner, loves to teach, enthusiastic, self-motivated, reliable, responsib
 
 
 
-<div width="100%" align="center"><a href="https://github.com/Samir1009ms/Ecommerce_Angular" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir1009ms&repo=Ecommerce_Angu&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/Samir1009ms/Ecommerce_Angular" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir1009ms&repo=Ecommerce_Angular&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/Samir1009ms/Task_Management-Angular" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir1009ms&repo=Task_Management-Angular&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
 
-<div width="100%" align="center"><a href="https://github.com/Samir1009ms/Movie-App-Angular" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir1009ms&repo=Movie-App-Angular&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Samir1009ms/car-product" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir1009ms&repo=car-product&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+ <a href="https://github.com/Samir1009ms/Movie-App-Angular" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir1009ms&repo=Movie-App-Angular&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+ <a href="https://github.com/Samir1009ms/car-product" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Samir1009ms&repo=car-product&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
