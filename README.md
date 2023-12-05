@@ -11,6 +11,7 @@ Quick learner, loves to teach, enthusiastic, self-motivated, reliable, responsib
 * 🌍  I'm based in Baku, Azerbaijan
 * ✉️  You can contact me at [yusifov.dev@gmail.com](mailto:yusifov.dev@gmail.com)
 * 🧠  I'm learning Dart , Flutter
+* 🤝 I'm open to collaborating on Projects
 
 ### Profile view 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samir1009ms&label=Profile%20views&color=0e75b6&style=flat" alt="=Samir1009ms" /> </p>
