@@ -10,7 +10,7 @@ Quick learner, loves to teach, enthusiastic, self-motivated, reliable, responsib
 
 * 🌍  I'm based in Baku, Azerbaijan
 * ✉️  You can contact me at [yusifov.dev@gmail.com](mailto:yusifov.dev@gmail.com)
-* 🧠  I'm learning React.js , Angular
+* 🧠  I'm learning Dart , Flutter
 
 ### Skills
 <!-- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express js" /></a> -->
